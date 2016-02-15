@@ -60,3 +60,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+C:\nppdf32Log\debuglog.txt
+__pycache__
+*.pyc
