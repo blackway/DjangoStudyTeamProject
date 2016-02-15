@@ -63,3 +63,4 @@ target/
 C:\nppdf32Log\debuglog.txt
 __pycache__
 *.pyc
+db.sqlite3
